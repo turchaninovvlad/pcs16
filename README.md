@@ -23,6 +23,10 @@
 Подробное описание проекта: На данный момент вы можете добавлять товары в избранное, оформлять корзину и заказ, просматривать подробную и актуальную информацию об интересующем вас товаре. Также присутствует связь с поддержкой.
 
 ![image](https://github.com/user-attachments/assets/c4be403a-b94b-4dbb-8ca2-8e845d4a4772)
+![image](https://github.com/user-attachments/assets/366c3e18-440e-4d78-b2ae-aba7499a5596)
+
+![image](https://github.com/user-attachments/assets/68364732-3578-4a28-a830-40ebf4eed953)
+
 
 # pcs16
 pcs16
