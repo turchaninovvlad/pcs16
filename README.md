@@ -2,7 +2,8 @@
 зарегистрировался на русторе
 попытался выложить
 
-![image](https://github.com/user-attachments/assets/7dea6f99-ba24-4ff1-9daa-6bd96fc86e0e)
+![image](https://github.com/user-attachments/assets/3ff331f5-cfc7-4b9d-8d55-4728d6c78ad0)
+
 
 ![image](https://github.com/user-attachments/assets/e8915024-6bb8-4e1c-b10d-98852bc81316)
 
